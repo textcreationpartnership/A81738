@@ -1,0 +1,1242 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Directions with prayers and meditations for the worthy receiving the blessed sacrament By the famous Mr. Charles Drelincourt. Minister of the reformed church at Charanton. Out of French.</title>
+            <author>Drelincourt, Charles, 1595-1669.</author>
+         </titleStmt>
+         <extent>Approx. 72KB of XML-encoded text transcribed from 95 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81738</idno><idno type="EEBO-CITATION">99895498</idno>
+  <idno type="VID">152937</idno>
+  <idno type="EEBO-PROQUEST">2240946657</idno>
+  
+            <idno type="STC">Wing D2160F</idno>
+            <idno type="STC">ESTC R229690</idno>
+            <idno type="PROQUEST">99895498</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99895498e"/>
+            <note>(EEBO-TCP ; phase 2, no. A81738)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152937)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2334:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Directions with prayers and meditations for the worthy receiving the blessed sacrament By the famous Mr. Charles Drelincourt. Minister of the reformed church at Charanton. Out of French.</title>
+                  <author>Drelincourt, Charles, 1595-1669.</author>
+               </titleStmt>
+               <extent>[18], 168 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>printed for Abel Swalle at the Unicorn at the west end of St. Pauls, and Samuel Tidmarsh at the Kings Head in Cornhil,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Llp copy tightly bound and cropped with some loss of text.</note>
+                  <note>Reproduction of original in the Lambeth Palace Library, London, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Devotional exercises --  Early works to 1800.</term>
+               <term type="topical_term">Meditation --  Early works to 1800.</term>
+               <term type="topical_term">Prayer --  Early works to 1800.</term>
+               <term type="topical_term">Lord's Supper --  Prayer-books and devotions --  English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152937:1"/>
+            <p>DIRECTIONS WITH PRAYERS AND MEDITATIONS FOR The Worthy Receiving The Blessed Sacrament.</p>
+            <p>By the Famous Mr. <hi>Charles Drelincourt.</hi>
+            </p>
+            <p>Minister of the Reformed Church at <hi>Charanton.</hi>
+            </p>
+            <p>
+               <hi>Out of French.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Abel Swalle</hi> at the <hi>Unicorn</hi> at the West End of St. <hi>Pauls,</hi> and <hi>Samuel Tidmarsh</hi> at the <hi>Kings Head</hi> in <hi>Cornhil.</hi> 1680.</p>
+         </div>
+         <div type="frontispiece">
+            <pb facs="tcp:152937:2"/>
+            <p>
+               <figure>
+                  <figDesc>church interior with figures</figDesc>
+               </figure>
+            </p>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:152937:2"/>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:152937:3"/>
+            <pb facs="tcp:152937:3"/>
+            <head>THE AUTHOR To the Christian READER.</head>
+            <opener>
+               <salute>READER,</salute>
+            </opener>
+            <p>THe Apostle St. <hi>Paul,</hi> writing to the Church of <hi>Corinth,</hi> declares to them that because of the Irreverence and want of Devotion,
+<pb facs="tcp:152937:4"/> wherewith they ap<g ref="char:EOLhyphen"/>proached the Lords Supper, many amongst them were sick and many dead.</p>
+            <p>I cannot tell if we may not attribute to the same Defect, most part of the Evils and Calamities which ex<g ref="char:EOLhyphen"/>ercise our Churches; for all of us almost partake of that Holy Sacrament without ex<g ref="char:EOLhyphen"/>amining our Conscien<g ref="char:EOLhyphen"/>ces, and our Hearts not being touched with
+<pb facs="tcp:152937:4"/> Repentance, we pro<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ane the most Holy Things.</p>
+            <p>When we are to ap<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ear before a great King, we put on our most suitable Apparel, we compose our Ge<g ref="char:EOLhyphen"/>stures, and consider long with our selves what we are to say. But we present our <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elves before the King of Kings, without the Garment of Holiness, which alone is well<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>leasing in his sight.
+<gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:152937:5"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:152937:5"/>
+               <pb facs="tcp:152937:6"/> We speak unadvisedly and with uncomely Ge<g ref="char:EOLhyphen"/>stures: And when w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> draw near to him with our Lips, our Heart many times is far from him.</p>
+            <p>We will not sit down to an ordinary Table with unwashen hands but we approach th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Table of the onely be<g ref="char:EOLhyphen"/>gotten Son of God, an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> have not washed our hands in Innocence.</p>
+            <p>In short, The mos<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> part put no differenc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb facs="tcp:152937:6"/> betwixt common Bread and Wine, and this Spiritual Feast which God prepares for his faithful Servants.</p>
+            <p>As they come unto that Holy Table with<g ref="char:EOLhyphen"/>out convenient Prepa<g ref="char:EOLhyphen"/>ration, so during the Celebration of that Ve<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eral Sacrament, they meditate not upon the mistery of their Redem<g ref="char:EOLhyphen"/>ption, not having be<g ref="char:EOLhyphen"/>fore their Eyes Christ Jesus Crucified.</p>
+            <p>Hence it is that the
+<pb facs="tcp:152937:7"/> Heart is not moved nor inflamed with th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Love of God; and tha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> finding no relish in thos<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> sacred Dainties, the<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ruminate not upo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them in their Spirits not considering that a God of old, would hav<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> no Sacrifice offered <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> him of those Beast which chewed not th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Cud, so now in hi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Church he rejects thos<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> who meditate not upo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the greatness of hi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Mercies.</p>
+            <pb facs="tcp:152937:7"/>
+            <p>But as God reserves to himself always a remnant according to the Election of Grace; so there are some that acknowledge the neces<g ref="char:EOLhyphen"/>sity of this Prepara<g ref="char:EOLhyphen"/>tion, because of the Apostle's express com<g ref="char:EOLhyphen"/>mand; <hi>That every one try himself:</hi> And the Example of our Lord Jesus Christ, who washed the Feet of his Disciples before he ad<g ref="char:EOLhyphen"/>ministred to them the Holy Supper: But they
+<pb facs="tcp:152937:8"/> find themselves at <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> great stand, when they would come to the ex<g ref="char:EOLhyphen"/>ercise of it. And in effect there is nothing more difficult than to disengage our minds from worldly Affairs, and to clip the Wings of their Natural Le<g ref="char:EOLhyphen"/>vity, that we may captivate them to the Meditation of Heaven<g ref="char:EOLhyphen"/>ly Things. To rouse then some out of that profane Stupidity, and to help the Piety of o<g ref="char:EOLhyphen"/>thers,
+<pb facs="tcp:152937:8"/> many Learned Men have published their Prayers and Ho<g ref="char:EOLhyphen"/>ly Meditations; but forasmuch as for most part they are bound up with other works, and that People stood in need of a <hi>Manual,</hi> which treated of no<g ref="char:EOLhyphen"/>thing else, I have been often desired to publish a small Collection of my Studies and Medita<g ref="char:EOLhyphen"/>tion, which I compo<g ref="char:EOLhyphen"/>sed some time ago for the particular use of
+<pb facs="tcp:152937:9"/> my self and Famil<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </p>
+            <p>I have long resiste that suit, no man know<g ref="char:EOLunhyphen"/>ing my Imperfection better than my self and besides that, th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> continual Duties of ou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Calling suffered me no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to re-view that littl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Work, and give it it last strokes. But have at length yielde<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> considering that in thi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> wretched Age, wher<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in Zeal every wher decayes, and Charit<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> grows cold, it is goo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb facs="tcp:152937:9"/> to gather together even the smallest Sparks of that sacred Fire; and that God having of old forbidden to carve his Altar, hath taught us that in Matters which concern his Service, Simplicity is pleasing unto him; and that the Prayers whereby we mount up to God in the Name of Christ Je<g ref="char:EOLhyphen"/>sus, ought not to be e<g ref="char:EOLhyphen"/>laborated with affe<g ref="char:EOLhyphen"/>ctation of much Art.</p>
+            <p>God who was not
+<pb facs="tcp:152937:10"/> displeased with th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> poor Widows Mite will not despise thi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> grain of Incense which I offer upon his Al<g ref="char:EOLhyphen"/>tar.</p>
+            <p>I doubt not, Christian Reader, but that you will take pleasure in that sweet swell. Such Meditations are of no relish to worldly Man. A brutish Man know<g ref="char:EOLhyphen"/>eth not, neither doth a Fool understand this; but if thou hast thy Senses exercised to di<g ref="char:EOLhyphen"/>scern
+<pb facs="tcp:152937:10"/> Spiritual Things, and takest pleasure in the Reading &amp; Medita<g ref="char:EOLhyphen"/>tion of Hevenly Things, thou wilt certainly profit thereby; and like the Blessed Ʋirgin, lay up in thnie Heart what ever is said of Jesus. Which that thou maist do, is the hearty Wish and Prayer of</p>
+            <closer>
+               <signed>Thine in the Lord.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="meditation">
+            <pb facs="tcp:152937:11"/>
+            <pb n="1" facs="tcp:152937:11"/>
+            <head>
+               <hi>A PRAYER AND MEDITATION FOR</hi> A Believer that is pre<g ref="char:EOLhyphen"/>paring to receive the Holy Sacrament of the Lords Supper.</head>
+            <p>O My Lord God! Thou invites me by thy Grace to the solemn
+<pb n="2" facs="tcp:152937:12"/> Feast of thy onely be<g ref="char:EOLhyphen"/>gotten Son, my Savi<g ref="char:EOLunhyphen"/>our Jesus Christ. But when I consider who thou art, and what I am, how rich and ex<g ref="char:EOLhyphen"/>cellent the Benefits are which thou preparest for me; and how lit<g ref="char:EOLhyphen"/>tle I am disposed to re<g ref="char:EOLhyphen"/>ceive them, my Soul is in trouble, and I tremble to draw near to thy glorious Maje<g ref="char:EOLhyphen"/>sty.</p>
+            <p>Righteousness be<g ref="char:EOLhyphen"/>longeth to thee, O
+<pb n="3" facs="tcp:152937:12"/> Lord! but to me Shame <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd Confusion of Face; <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or thou dwellest in Light inaccessible, and I am plunged in the pit of Darkness. Thou <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rt the Holy of Holies, and even Holiness it self, and I am nothing but uncleanness. From the Crown of the Head to the Sole of the Foot, there is no soundness in me. The World hath corrupted me, the Flesh misled me, and Satan hath covered me with Sores.</p>
+            <pb n="4" facs="tcp:152937:13"/>
+            <p>Behold, thou putte<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> no trust in thy Saints yea the Heavens ar<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not clean in thy sight how much more ab<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>minable and filthy sha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> I poor wretch be, wh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> drink in iniquty lik<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> water? If the <hi>Seraphim</hi> who are inflamed wit<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Zeal and Fervency i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thy Service, cover the<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Faces before thee, ho<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> shall I dare to appea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in thy presence, who<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Zeal is faint, and who<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Prayers are cold; wh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="5" facs="tcp:152937:13"/> attends thy Service only out of custom, and who am more ad<g ref="char:EOLhyphen"/>dicted to the things of this world, than to the advancement of thy Glory?</p>
+            <p>The Apostle St. <hi>Pe<g ref="char:EOLhyphen"/>ter</hi> thought not him<g ref="char:EOLhyphen"/>self worthy to be in the same Boat with the Son of God, for having perceived the effects of his Divinity, he cried out, <hi>Depart from me O Lord! for I am a sin<g ref="char:EOLhyphen"/>ful man;</hi> and shall I,
+<pb n="6" facs="tcp:152937:14"/> O Lord! who am th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> greatest of sinners, ve<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ture to set at His Tabl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to feed upon His Dai<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ties, and to becom<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> one Body with Him?</p>
+            <p>St. <hi>John Baptist</hi> th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> greatest of all that a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Born of a Woman, an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> whom thou filled <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> with the Holy Ghos<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> from his Mother Womb, thought no himself worthy t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> stoop down and un<g ref="char:EOLunhyphen"/>loose the latchet of His Shooes. And shall I
+<pb n="7" facs="tcp:152937:14"/> who am the wretch<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dest of all creatures; who am a sinner from <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Womb, and whose <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ife hath been but a <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hain of iniquity; shall <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> raise my self up to Heaven, there to touch <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat Glorious King, and bring Him down to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>odge in my Soul?</p>
+            <p>Being covered with <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he filth of so many a<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ominable Vices, shall <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> present my self to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat Holy Banquet, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>here Angels wait like
+<pb n="8" facs="tcp:152937:15"/> Ministring Spirits sen<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> out for the good o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> those who are to re<g ref="char:EOLunhyphen"/>ceive the earnest o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Salvation: where Go<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is Master of the Feast where the Meat an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Drink is the Flesh an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Blood of God? Wit<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> lascivious Eyes and fu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of wanton Looks, shal<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> I behold that Lam<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> without spot or ble<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>mish? With my pollute<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Lips and lying Tongu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> shall I touch the Brea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of Angels? Or shall
+<pb n="9" facs="tcp:152937:15"/> lodge the King of Kings <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n a Hogstie, in a <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eart filled with foul <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oncupiscence?</p>
+            <p>I remember, Lord, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat when thou establi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hed the Jewish Feasts, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hou gavest this Law, <hi>Let none appear before <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e empty.</hi> In this Feast <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f Christians, to which <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hou callest us by the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rumpet of the Gospel, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot to commemorate <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne Temporal Delive<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nce out of <hi>Egypt,</hi> but <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> celebrate the memo<g ref="char:EOLhyphen"/>ry
+<pb n="10" facs="tcp:152937:16"/> of the Spiritual De<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>verance from Si<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Death, and Hell; n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to eat in thy presen<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the First-fruits of th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Land of <hi>Canaan,</hi> b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to love-taste the D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>lights of the heaven<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Jerusalem;</hi> not to a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>pear as strangers, b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as fellow Citizens <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Saints, Compan<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ons of Angels, an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Menial Servants of Go<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Wilt thou, O Lord, <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> this solemn day, acce<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of me, who am void <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="11" facs="tcp:152937:16"/> Piety; who have no <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eal or Charity, and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m without good <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orks in this World?</p>
+            <p>By the same Law of <hi>Moses,</hi> they who had <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ouched a dead Body, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ere forbidden to ap<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>roach the Altar on <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hich were offered <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Sacrifices, which <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ere but Types of the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>acrifice that Jesus Christ offered to God <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n the Cross, for the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>emission of our Of<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ences. And may I un<g ref="char:EOLhyphen"/>der
+<pb n="12" facs="tcp:152937:17"/> the Gospel dra<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> near to the Tab<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> where Jesus Chri<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Crucified offers himse<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> with all his Benefit<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> May I, I say, who a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> continually imploy<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in dead works, i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> stead of serving t<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Living God? and wh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> am dead in sins a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> trespasses; having ne<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ther sense nor motio<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as to spiritual and he<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>venly things?</p>
+            <p>Alas! My Lord Go<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> I am straitned on bo<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <pb n="13" facs="tcp:152937:17"/> sides, for if I absent <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y self from this Holy Table, I am disobedi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt to my Saviour, who <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ommands me to set <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orth his Death until <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e shall come again; keep at a distance <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rom the Fountain of Life; I renounce the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eals of the Covenant, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd the Pledges of thy Love: And if I come <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o it unworthily, I am <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fraid I may eat and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rink my own Damna<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion, and draw upon
+<pb n="14" facs="tcp:152937:18"/> my self fearful Judg<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ments.</p>
+            <p>For if a Fire com<g ref="char:EOLunhyphen"/>ing out from befo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> God, consumed <hi>N<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>dab</hi> and <hi>Abihu,</hi> b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>cause they approach the Lord with stran<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Fire; will not G<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> who is a consumi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Fire, devour me, i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> draw near to him wi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Fire of my Qua<g ref="char:EOLunhyphen"/>rels, and the Flames my Lust?</p>
+            <p>If the <hi>Bethshemit<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> were punished wi<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <pb n="15" facs="tcp:152937:18"/> Death for having <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ok'd into the Ark of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Covenant, shall <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot I render my self <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uilty of Death and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>verlasting Maledicti<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n, if with an evil <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ye and unclean Hand <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>offer to look upon and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uch Jesus Christ, the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on of the Living God, <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> whom dwell the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>easures of Wisdom <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd Knowledge?</p>
+            <p>If he that sate down <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o the Kings Feast <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ithout the Wedding
+<pb n="16" facs="tcp:152937:19"/> Garment, was cast in outter Darkness, whe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> there is weeping a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> gnashing of Teeth, fear, least when I pr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>sent my self to t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Feast of the King <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Kings, I be throw headlong into the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ternal Torments <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Hell Fire. For I a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not clothed with th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Wedding Garment and am not onely wit<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>out the Robes <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Righteousness and I<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>nocence, but which
+<pb n="17" facs="tcp:152937:19"/> worse still, draw after <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e the Chains of Ini<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uity, and the Rags of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Old Man: I carry <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Image of the Devil <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd the Livery of Hell.</p>
+            <p>If thou, Lord, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hould'st mark Iniqui<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ies: O Lord, who <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hall stand? but there <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s forgiveness with thee <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat thou may'st be <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eared. Mercies and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orgiveness are from <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Lord our God; for we have rebelled a<g ref="char:EOLhyphen"/>gainst him. But where
+<pb n="18" facs="tcp:152937:20"/> Sin hath abounded, th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Grace hath abound<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> much more.</p>
+            <p>Being cast down i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> my self, I raise my se<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> up in thee; I am who<g ref="char:EOLunhyphen"/>ly confounded when reflect on the horro<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of my sins; but m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> comfort is, that th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> tender Mercies fail no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and that Jesus Chri<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> came into the Worl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not to call the Righte<g ref="char:EOLunhyphen"/>ous, but Sinners to R<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>pentance. Thy mercy O Lord, is in th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="19" facs="tcp:152937:20"/> Heavens, and thy <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aithfulness reacheth <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nto the Clouds. As <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y thy Goodness th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ivest me thy Blessings, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o by thy Wisdom thou wilt instruct me how <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o receive them to Sal<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ation!</p>
+            <p>It is true, that of my <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elf I am destitute of all good; but in thy Courts there is an O<g ref="char:EOLhyphen"/>cean of Riches. I will draw out of thy Trea<g ref="char:EOLhyphen"/>sures, and say with thy Servant <hi>David,</hi>
+               <pb n="20" facs="tcp:152937:21"/> when I make my O<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>fering, <hi>All things com<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of thee, and of thine ow<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> have we given thee.</hi>
+            </p>
+            <p>I am dead in Tre<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>passes and Sins, bu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> I am not dismayed, <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Lord, for the Brea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that thou preparest, no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> onely strengthens th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Living but raises th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Dead. Jesus Christ i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Resurrection an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Life; he make the Dead to live, an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> cals the things tha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> are not as if the<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> were.</p>
+            <pb n="21" facs="tcp:152937:21"/>
+            <p>
+               <hi>Nadab</hi> and <hi>Abihu</hi> offered strange Fire un<g ref="char:EOLhyphen"/>to thee, and sported in its flame; but Lord, I tremble at my sins, and repent in dust and ashes. I wish that my Eyes were a living Fountain of Tears to quench the flames of my Lusts; and I draw near to thee, that I may drown them in the ri<g ref="char:EOLhyphen"/>ver of thy mercy.</p>
+            <p>The <hi>Bethshemites</hi> were not allowed to look into the Ark,
+<pb n="22" facs="tcp:152937:22"/> but I am expresly com<g ref="char:EOLunhyphen"/>manded, O Lord, <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> behold Jesus Chris<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> who is the Image o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the invisible God, th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> brightness of the Glor<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and express Image o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Fathers Person And it is not onely th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> pleasure that I should as in a Glass, openly behold his Glory, bu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> also that I should touc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> him, embrace him and lodge him in my Heart.</p>
+            <p>I acknowledge my
+<pb n="23" facs="tcp:152937:22"/> self to be miserable, and wretched, poor, blind and naked; but I will follow the Coun<g ref="char:EOLhyphen"/>sel which my Saviour gave to the Angel of the Church of <hi>Laodi<g ref="char:EOLhyphen"/>cea:</hi> I will buy of him Gold tryed in the Fire, that I may be rich, and white Rayment, that I may be clothed, and that the shame of my Nakedness do not ap<g ref="char:EOLhyphen"/>pear; and I will an<g ref="char:EOLhyphen"/>noint my Eyes with Eye-salve, that I may
+<pb n="24" facs="tcp:152937:23"/> see, though I be th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> poorest Creature liv<g ref="char:EOLunhyphen"/>ing, yet I can mak<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that purchase. Fo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Blessings of th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Spirit are bought with out Money and with<g ref="char:EOLunhyphen"/>out a price.</p>
+            <p>O Lord Jesus! thou who givest me the greater wilt not refuse me the lesser, since thou hast invited me to thy Feast, opened thy Heart, and declared unto me the secret of thy Love; thou wilt
+<pb n="25" facs="tcp:152937:23"/> give me a new Gar<g ref="char:EOLhyphen"/>ment, not taken from thine Enemies, like that which <hi>Sampson</hi> gave the <hi>Philistines,</hi> but taken off thy self, like that which <hi>Jona<g ref="char:EOLhyphen"/>than</hi> gave to <hi>David,</hi> whom he loved as his own Soul; for thou art the Lord our Righ<g ref="char:EOLhyphen"/>teousness, and art made to us of God, Wisdom and Righteousness, Sanctification and Re<g ref="char:EOLhyphen"/>demption.</p>
+            <p>This Holy Feast
+<pb n="26" facs="tcp:152937:24"/> which our Saviour pre<g ref="char:EOLunhyphen"/>pares for us, is no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> like that of <hi>Simon</hi> the Pharisee, where there was neither Water to wash his Feet, nor Oyl to annoint his Head; but as at his last Sup<g ref="char:EOLhyphen"/>per Jesus Christ washed his Disciples Feet, and dried them with the Linnen Cloth where<g ref="char:EOLhyphen"/>with he was begirt so as often as he cele<g ref="char:EOLhyphen"/>brates that Holy Sup<g ref="char:EOLhyphen"/>per, he washeth our Feet, waters them with
+<pb n="27" facs="tcp:152937:24"/> his Blood, and dries <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hem with that fine and shining Lawn which is the Justifica<g ref="char:EOLhyphen"/>tion of the Saints.</p>
+            <p>As heretofore <hi>Da<g ref="char:EOLhyphen"/>vid</hi> shewed kindness to <hi>Mephibosheth,</hi> and tho he was deformed and cripple in both his feet, made him eat at his Table among the Kings Sons for the love he bore to <hi>Jonathan</hi> his faithful friend, so, Lord, though my sins have rendred me de<g ref="char:EOLhyphen"/>formed,
+<pb n="28" facs="tcp:152937:25"/> and that I ha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in the wayes of th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> commandements; halt<g ref="char:EOLunhyphen"/>ing on every side, some<g ref="char:EOLunhyphen"/>times transported wit<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> idle fears, and some<g ref="char:EOLunhyphen"/>times with foolish hopes, insolent in pro<g ref="char:EOLunhyphen"/>sperities, and impatien<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> under adversity, ye<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thou wilt receive me unto thy Table, &amp; make me eat with the Chil<g ref="char:EOLunhyphen"/>dren of the King o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Kings, seeing I am the Son of him whom thou lovest, and in
+<pb n="29" facs="tcp:152937:25"/> whom from all Eterni<g ref="char:EOLhyphen"/>ty thou takest thy good Pleasure. I know I am more deformed than ever <hi>Mephibosheth</hi> was, but thou also art more merciful than <hi>David;</hi> I am more straitly united to Jesus Christ than <hi>Mephibo<g ref="char:EOLhyphen"/>sheth</hi> was to <hi>Jonathan,</hi> for I am his Brother, his Son, his Spouse, and a Member of his Body; being Flesh of his Flesh and Bone of his Bones.</p>
+            <pb n="30" facs="tcp:152937:26"/>
+            <p>I will not fly the<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> like <hi>Adam,</hi> though be naked; for God <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> no less able than mer<g ref="char:EOLunhyphen"/>ciful to cover my na<g ref="char:EOLunhyphen"/>kedness: Of the wool of the Lamb withou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> blemish, of the righte<g ref="char:EOLhyphen"/>ousness and innocenc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of my Saviour, he wil make me a garmen<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of Salvation and man<g ref="char:EOLunhyphen"/>tle of Righteousness.</p>
+            <p>I will not be dismay<g ref="char:EOLhyphen"/>ed though I see my self polluted; for God is a well of Salvation
+<pb n="31" facs="tcp:152937:26"/> and Blood and Water streams from the side of blessed Jesus: he that hath redeemed me will purify me: Nor though I see my self poor; for God is the Lord of the Universe: and it is to the poorest in this world that he opens the Cabinet of his Treasures. Nor though I find my self sick, for Jesus Christ healeth all maladies and diseases: and his pretious Blood is not
+<pb n="32" facs="tcp:152937:27"/> only drink to the Saints, but also Phy<g ref="char:EOLhyphen"/>sick to the Sick, Nay if I were without sick<g ref="char:EOLhyphen"/>ness the Blood of my Saviour would be un<g ref="char:EOLhyphen"/>profitable to me, for the whole have no need of a Physician, but they that are sick.</p>
+            <p>But since thou usest me with so much fa<g ref="char:EOLhyphen"/>vour, O Lord, suffer me not to be unthank<g ref="char:EOLhyphen"/>ful, nor to change thy Grace into Wantonness. Since thou callest me
+<pb n="33" facs="tcp:152937:27"/> not as thou did'st <hi>Moses</hi> out of the middle of a burning Bush, but from amid'st the Flames of thy Love; and that thou speakest to me not only of the delive<g ref="char:EOLhyphen"/>rance of <hi>Israel;</hi> but art willing to seal to my Soul my Eternal Redemption, and to give me the First-fruits of the Inheritance that hath been prepared for me before the Founda<g ref="char:EOLhyphen"/>tion of the World. Give me Grace that I
+<pb n="34" facs="tcp:152937:28"/> may pull the shooes o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of my feet, by strippin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> my self of my earthl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Affections and bruti<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Lusts.</p>
+            <p>Root out of m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> heart all envy, hatred malice, avarice, prid<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and the desire of vai<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> glory. Banish from <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the love of the World the love of my self the pomp and vaniti<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the sinful age, an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> all unlawful pleasure Grant that I may affli<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> my Soul before the
+<pb n="35" facs="tcp:152937:28"/> for so many sins as I have committed.</p>
+            <p>Give me that Holy forrow that bringeth forth Repentance unto Life, not to be repent<g ref="char:EOLhyphen"/>ed of. Give me the nails of a serious Re<g ref="char:EOLhyphen"/>pentance, that I may fa<g ref="char:EOLhyphen"/>sten my Lusts and Con<g ref="char:EOLhyphen"/>cupiscences to the cross of my Saviour, that a penitent sorrow may be as a Lance to pierce the Body and Heart of the Old Man.</p>
+            <p>And forasmuch as
+<pb n="36" facs="tcp:152937:29"/> Judgment withou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Mercy shall be to thos<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> who have not shew<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Mercy. Give me bow<g ref="char:EOLunhyphen"/>ells of Compassion, Kindness, Humility▪ Mildness, and a Pati<g ref="char:EOLunhyphen"/>ent Mind. Cloath m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with Charity, which i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Bound of Perfecti<g ref="char:EOLunhyphen"/>on; and if any have offended me, as Jesu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Christ hath graciously pardoned all my Offen<g ref="char:EOLunhyphen"/>ces, grant that I may do the like; and if have in any thing of<g ref="char:EOLunhyphen"/>fended
+<pb n="37" facs="tcp:152937:29"/> my Neighbour, that I may willingly make him satisfaction in word and in deed. O, my God, I find my self still very cold and faint in my Devo<g ref="char:EOLhyphen"/>tion; but send thou from Heaven some <hi>Se<g ref="char:EOLhyphen"/>raphim,</hi> who with a burning Cole from thine Altar, may puri<g ref="char:EOLhyphen"/>fy my Heart and Lips, and kindle in my Breast the fire of true Zeal and sincere Charity.</p>
+            <pb n="38" facs="tcp:152937:30"/>
+            <p>O that I may draw near to thee with a Heart purified from an evil Conscience, and my Body washed with clean water, that I may wash my hands in in<g ref="char:EOLhyphen"/>nocence before I com<g ref="char:EOLhyphen"/>pass thine Altar; that <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> may hasten to put o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Wedding Garment, seeing the Feast is rea<g ref="char:EOLhyphen"/>dy and at hand.</p>
+            <p>O Lord! my Sou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> faileth, and my Spiri<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> fainteth within me The more I drink th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="39" facs="tcp:152937:30"/> Waters of this World, the greater is my Thirst. The more I enjoy of Honours, Riches, and Carnal Pleasures; the more is my Soul empty and dry. Nothing in this World can fill my Heart, nor satisfie my Desires; but thou Lord hast a Fountain of Liv<g ref="char:EOLhyphen"/>ing Water, of which whosoever drinks shall never thirst again; and thou art the Bread of Life, of which who<g ref="char:EOLhyphen"/>soever eateth shall live
+<pb n="40" facs="tcp:152937:31"/> for ever; Grant the<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that I may hunger an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thirst after Righteous<g ref="char:EOLunhyphen"/>ness, so that I may b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> satisfied: Give me o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that Living Water, tha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> I may thirst no more I know the Wellis deep but give me, goo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Lord, the Bucket tha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> may draw out of it, or grant that I may plunge and drown my self in that Grace: Tha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Bread of Life is far di<g ref="char:EOLunhyphen"/>stant from me, for i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in Heaven, and I upo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="41" facs="tcp:152937:31"/> Earth, but thou, O Lord, shalt give me the Wings of Faith, that in the company of Heavenly Eagles I may soar up towards crucified Christ, and feed my Soul with his precious Flesh and Blood, until that I be transformed into his Image, and be made Partaker of his Divine Nature. <hi>Amen.</hi>
+            </p>
+         </div>
+         <div type="meditation">
+            <pb n="42" facs="tcp:152937:32"/>
+            <head>Another <hi>Meditation</hi> upon the same Sub<g ref="char:EOLhyphen"/>ject.</head>
+            <p>WIsdom hath co<g ref="char:EOLhyphen"/>vered her Ta<g ref="char:EOLhyphen"/>ble, prepared her Dishes, and min<g ref="char:EOLhyphen"/>gled her Wine; sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> invites me to eat of her Bread, and drink o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Wine that she hath mingled; but my Sou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is so dulled by the
+<pb n="43" facs="tcp:152937:32"/> Pleasures of this Life, that it neither hungers nor thirsts after Righ<g ref="char:EOLhyphen"/>teousness. And though it were more hungry and thirsty after Good<g ref="char:EOLhyphen"/>ness than it is, yet it is in a bad condition to appear at that Roy<g ref="char:EOLhyphen"/>al Feast, it is too much infected to receive so exquisite Food and so precious a Liquor.</p>
+            <p>Under the Ceremo<g ref="char:EOLhyphen"/>nies of the Mosaical law, the Shew-bread was never put but in Holy
+<pb n="43" facs="tcp:152937:33"/> Vessels; and under the purity of the Gospel can Jesus Christ, who is the Bread of Life, be received in a Soul pol<g ref="char:EOLhyphen"/>luted with sin, that sends out nothing but unclean Lusts?</p>
+            <p>The Manna of the Desart was kept in the Tabernacle, in a Ves<g ref="char:EOLhyphen"/>sel of Gold; and shall Jesus Christ, who is the true Manna that came down from Heaven, lodge in my Soul, which is a Vessel of Unclean<g ref="char:EOLhyphen"/>ness
+<pb n="45" facs="tcp:152937:33"/> and Corruption?</p>
+            <p>The Ordinances of our God are the Pat<g ref="char:EOLhyphen"/>tern of his Holy Acti<g ref="char:EOLhyphen"/>ons; he forbids us to cast Holy Things unto Dogs, or Pearls before Swine; and will he give his Son, who is the Holy of Holies, and the chosen and precious Stone to me, a wretched sinner, who have so often promised to my God to live holily, and have still returned to the uncleanness of
+<pb n="46" facs="tcp:152937:34"/> my Vices, as the Dog that returns to his Vo<g ref="char:EOLhyphen"/>mit, and the Sow to her wallowing in the Mire?</p>
+            <p>Our Passover, to wit, Jesus Christ, hath been sacrificed; but how shall I come to the Feast, for I am uncircumcised in Heart and Ears? I want the Girdle of Sobriety and Chastity; I have not the Staff of Faith working by Charity, nor my Feet shod with the
+<pb n="47" facs="tcp:152937:34"/> Preparation of the Gospel of Peace. I feel not, as I ought, the bitterness of my sins. I want the unleavened Bread of Sincerity and Truth. I am puffed up with Pride, and filled with the Old Leaven of Guile and Malice. The Centurion, who had so lively a Faith, that Jesus Christ from his sacred Mouth pronoun<g ref="char:EOLhyphen"/>ced, <hi>That he had not seen such Faith, no not in Israel,</hi> said to
+<pb n="48" facs="tcp:152937:35"/> our Saviour, <hi>I am not worthy that thou should'st come under my Roof:</hi> And shall I, Lord, who am filled with diffidence and un<g ref="char:EOLhyphen"/>belief, think my self worthy that thou should'st enter into my Heart?</p>
+            <p>The poor Canaanitish Woman beg'd onely to gather the Crums that fell from the Childrens Table, and shall I have the boldness, Lord, to sit down at thy Table,
+<pb n="49" facs="tcp:152937:35"/> and to eat of thy Chil<g ref="char:EOLhyphen"/>drens Bread?</p>
+            <p>I fear, Lord, least eating of that Bread and drinking of that Cup unworthily, I become guilty of thy Body and Blood; and that prophaning the Waters of the Cove<g ref="char:EOLhyphen"/>nant of Grace, the Sa<g ref="char:EOLhyphen"/>crament of my Redem<g ref="char:EOLhyphen"/>ption, I be severely pu<g ref="char:EOLhyphen"/>nished, as if I trampled under foot the Blood of the Covenant, and did spight to the Lord of Glory.</p>
+            <pb n="50" facs="tcp:152937:36"/>
+            <p>For if <hi>Ʋzza</hi> was pu<g ref="char:EOLhyphen"/>nished with Death for stretching out his rash hand to the Ark of the Covenant, what pu<g ref="char:EOLhyphen"/>nishment ought I to expect, if I draw near to Jesus Christ with rashness; in whom the fulness of the God<g ref="char:EOLhyphen"/>head dwells bodily?</p>
+            <p>Shall I then, like those who were in<g ref="char:EOLhyphen"/>vited to the Kings Feast, refuse to come? Shall I either excuse my self because of Business
+<pb n="51" facs="tcp:152937:36"/> that o'rcharge my Spi<g ref="char:EOLhyphen"/>rits, or Pleasures that mollifie my Courage, or Vices that corrupt my Soul? Shall I follow the Example of the Spouse, who instead of open<g ref="char:EOLhyphen"/>ing the door to her Be<g ref="char:EOLhyphen"/>loved, who came to carry her to his Feast, said, <hi>I have put off my Coat, how shall I put it on, I have washed my Feet, how shall I defile them?</hi> But I am affraid that the offend<g ref="char:EOLhyphen"/>ed King may declare
+<pb n="51" facs="tcp:152937:37"/> me unworthy to taste of his Feast, and that he may swear in his wrath that I shall ne<g ref="char:EOLhyphen"/>ver enter into his rest. I am affraid that if I refuse my Lord, whil'st he is near, and whil'st he invites me with so much kindness, I may be chastised as the Spouse, and that my Beloved may with<g ref="char:EOLhyphen"/>draw from my Soul, and that when I shall seek him I shall not find him, and when I
+<pb n="53" facs="tcp:152937:37"/> call upon him he will not answer me.</p>
+            <p>O my God, free me then from this perplex<g ref="char:EOLhyphen"/>ity, and perfect thy strength in my weak<g ref="char:EOLhyphen"/>ness. Suffer me not by Ingratitude to keep back from a Table where thou preparest so great Delights. And to the end I may wor<g ref="char:EOLhyphen"/>thily approach it, give me, Lord, the Prepa<g ref="char:EOLhyphen"/>rations which I want. I am not purified ac<g ref="char:EOLhyphen"/>cording to the Purifica<g ref="char:EOLhyphen"/>tion
+<pb n="54" facs="tcp:152937:38"/> of the Sanctuary; but to the end I may celebrate the true Pas<g ref="char:EOLhyphen"/>soever, be thou, good God, a Propitiation for me; for with my whol<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> heart I call upon thee.</p>
+            <p>I sleep with the Foo<g ref="char:EOLhyphen"/>lish Virgins, I have no Oyl in my Lamp, to go out to meet the Bride<g ref="char:EOLhyphen"/>groom, nevertheless I will not be discou<g ref="char:EOLhyphen"/>raged; I shall not go to those that sell: I'll not have my recourse
+<pb n="55" facs="tcp:152937:38"/> to the Merits of Saints, nor the Blood of Mar<g ref="char:EOLhyphen"/>tyrs; but I will betake my self to him who freely bestows, to thee, Lord Jesus, who art the true <hi>Aaron,</hi> whose precious Oyl runs down, not only to thy Beard, but even to the Skirts of thy Gar<g ref="char:EOLhyphen"/>ment. The fulness of thy Grace shall run down, even to me, who am the most ab<g ref="char:EOLhyphen"/>ject of all thy Crea<g ref="char:EOLhyphen"/>tures. Thou wilt fill
+<pb n="56" facs="tcp:152937:39"/> my Heart with the Oyl of Faith, Hope, and Charity: And my Lamp lighted at the Beams of the Sun of Righteousness, shall ne<g ref="char:EOLhyphen"/>ver be extinguished.</p>
+            <p>When a great King intends to lodg<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> poor House, he sends thither his Officers, and the Rooms are furnish<g ref="char:EOLhyphen"/>ed with the Princes Furniture. There is no House so poor as my Soul, for it is alto<g ref="char:EOLunhyphen"/>gether void of Righte<g ref="char:EOLunhyphen"/>ousness
+<pb n="57" facs="tcp:152937:39"/> and Holiness; but seeing it is designed for the Lodging of the King of Kings, thou wilt send into it thy Royal Equipage; thy Spirit will come and adorn that Upper Chamber, wherein thou intends to celebrate thy Supper, with thy Disciples.</p>
+            <p>Thou shalt turn me, O Lord, and then shall I be turned; for thou art the Lord my God. Break my Heart
+<pb n="58" facs="tcp:152937:40"/> and Spirit, that I may be a pleasing Sacrifice unto thee, and that I may receive the re<g ref="char:EOLhyphen"/>freshing Liquor of thy Grace. I am hardened in my Pollution and Ini<g ref="char:EOLhyphen"/>quity, but as <hi>Moses</hi> heretofore striking the Rock with his Rod, made fresh Water spring forth; so if thou touch my Heart with the Rod of thy Word, thou shalt make me melt in Tears of Repentance: And then, Lord, with
+<pb n="59" facs="tcp:152937:40"/> my Tears I shall wash the House into which thou intendst to come; for alas! it is all de<g ref="char:EOLhyphen"/>filed with vice.</p>
+            <p>At the Feast where thou wast present, Lord, in the House of the Pharisee, thou mani<g ref="char:EOLhyphen"/>festedst great Charity, in pardoning that poor sinful Woman, who washed thy sacred Feet with her Tears: But at the Feast which thou celebratest in thy Church, there is oc<g ref="char:EOLhyphen"/>casion
+<pb n="60" facs="tcp:152937:41"/> for the exerci<g ref="char:EOLhyphen"/>sing of greater Chari<g ref="char:EOLhyphen"/>ty, and of rendering thy self still more ami<g ref="char:EOLhyphen"/>able; for there are more sins to be par<g ref="char:EOLhyphen"/>doned there, and fewe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> tears to be found. There streams not from my Eyes Tears enough t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> wash thy Feet, but thou Lord, hast shed Bloo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> enough to wash away the sins of all th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> World; and it is pro<g ref="char:EOLunhyphen"/>perly thy Charit<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which hides a multi<g ref="char:EOLunhyphen"/>tude of sins.</p>
+            <pb n="61" facs="tcp:152937:41"/>
+            <p>O Lord, enter not into Judgment with thy Servant, for in thy sight no man living shall be justified. If I should contend with thee, I cannot answer thee one of a thousand.</p>
+            <p>For my Lines are fallen to me in plea<g ref="char:EOLhyphen"/>sant Places, thou, Lord, hast given me a goodly Inheritance, thou hast created me in thy like<g ref="char:EOLhyphen"/>ness, redeemed me by the Blood of thy Son, and by thy Spirit
+<pb n="62" facs="tcp:152937:42"/> taught me Wisdom in the inward parts. And when I reflect on the Course of my Life past, I find that thou hast crowned all my years with thy Blessing. Thou hast done me a thou<g ref="char:EOLhyphen"/>sand times more good than <hi>I</hi> could either think or ask. So ma<g ref="char:EOLhyphen"/>ny admirable Blessings and special Favours, ought to inflame my Heart with the Love of thee, and make the Zeal of thy House to
+<pb n="63" facs="tcp:152937:42"/> eat me up; but I have not only buried the Talent which thou gavest me, but also scattered and lavished away thy Blessings, with unparallell'd Pro<g ref="char:EOLhyphen"/>digality. <hi>I</hi> have a<g ref="char:EOLhyphen"/>bused all thy Favours, and the light of thy Knowledge has ren<g ref="char:EOLhyphen"/>dered me onely more sharp sighted in evil.</p>
+            <p>
+               <hi>I</hi> have been insolent in my Prosperities, and in Adversity im<g ref="char:EOLhyphen"/>patient; there is no
+<pb n="64" facs="tcp:152937:43"/> Wickedness whereof <hi>I</hi> am not capable, nor Sin whereof <hi>I</hi> am not culpable.</p>
+            <p>
+               <hi>I</hi> have confessed thee with the Mouth, but in Works denyed thee. <hi>I</hi> draw near to thee with the Lips, but my Heart is far from thee, rooted fast in the World. If <hi>I</hi> adore not false Gods, if <hi>I</hi> pro<g ref="char:EOLhyphen"/>strate not my self be<g ref="char:EOLhyphen"/>fore Idols, the Work<g ref="char:EOLhyphen"/>manship of Mens Hands, <hi>I</hi> embrace the Honours▪
+<pb n="65" facs="tcp:152937:43"/> Pleasures, and Riches of the World, as if they were my chiefest Good. My Pride, Avarice, and Voluptuousness, are Idols of Jealousie, by which <hi>I</hi> provoke thee to Jealousie. <hi>I</hi> speak without reverence of thy Majesty and thy Works; and if <hi>I</hi> blas<g ref="char:EOLhyphen"/>pheme not thy Name, <hi>I</hi> back-bite my Neigh<g ref="char:EOLhyphen"/>bour, whom thou hast made after thy Like<g ref="char:EOLhyphen"/>ness. If <hi>I</hi> set not apart some time of my Life
+<pb n="66" facs="tcp:152937:44"/> by unexcusable Sacri<g ref="char:EOLhyphen"/>ledge, to the Service of the Creature, <hi>I</hi> de<g ref="char:EOLhyphen"/>dicate to the Flesh an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the World, the greates<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> part of the days which thou hast set a-part for thy Ser<g ref="char:EOLhyphen"/>vice.</p>
+            <p>I have not rendred to my Superiors that obedience and love which thou hast com<g ref="char:EOLhyphen"/>manded us; and I have been careless in in<g ref="char:EOLhyphen"/>structing in the ways of Godliness those
+<pb n="67" facs="tcp:152937:44"/> whom thou hast com<g ref="char:EOLhyphen"/>mitted to my Conduct. If my hands are not polluted with innocent Blood, my Heart hath been filled with envy, hatred, and revenge. I am quick to anger, and slow to forgive<g ref="char:EOLhyphen"/>ness. If I have not de<g ref="char:EOLhyphen"/>filed my Body with un<g ref="char:EOLhyphen"/>cleanness, I have pol<g ref="char:EOLhyphen"/>luted my Soul with foul desires. My Eyes have not been free from wanton looks, and my Ears have
+<pb n="68" facs="tcp:152937:45"/> been tickled with ob<g ref="char:EOLhyphen"/>scene words; or o<g ref="char:EOLhyphen"/>ther wayes by my va<g ref="char:EOLhyphen"/>nity and worldly or<g ref="char:EOLhyphen"/>naments, I have kin<g ref="char:EOLhyphen"/>dled in the hearts of o<g ref="char:EOLhyphen"/>thers a fire of unclean Lusts. If I have not robbed other Mens goods, I unjustly pos<g ref="char:EOLhyphen"/>sess thine, in not re<g ref="char:EOLhyphen"/>lieving the wants of the poor and afflicted I have seen my bre<g ref="char:EOLhyphen"/>thren in necessity and shut up the bowels of compassio<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="69" facs="tcp:152937:45"/> from them. If I raise no false report against my Neighbour, I have no charity to cover his failings; and my malicious Tongue takes pleasure to speak of other Mens evil. I am envious at the good, and covetous of the goods which thy wise Providence hath dis<g ref="char:EOLhyphen"/>pensed to others. I am filled with idle thoughts and brutish affections.</p>
+            <pb n="70" facs="tcp:152937:46"/>
+            <p>Besides the Offences that I have willfully, and with deliberate malice committed, how many Faults am I guilty of, O Lord, which are unknown to me? My iniquities have caught hold on me, and I have not seen them. They are in number more than the hairs of my Head, and my Heart faileth me. O my God I am ashamed and confound<g ref="char:EOLhyphen"/>ed to lift up my Face
+<pb n="71" facs="tcp:152937:46"/> to thee! for my ini<g ref="char:EOLhyphen"/>quities are gone over my Head, and my sins reach up unto Heaven. Father I have sinned a<g ref="char:EOLhyphen"/>gainst Heaven and be<g ref="char:EOLhyphen"/>fore thee, and am no more worthy to be called thy Son. A<g ref="char:EOLhyphen"/>gainst thee, thee only have I sinned and done that which is evil in thy sight. Have mer<g ref="char:EOLhyphen"/>cy upon me, O God, according to thy lo<g ref="char:EOLhyphen"/>ving-kindness, accord<g ref="char:EOLhyphen"/>ing to the multitude
+<pb n="72" facs="tcp:152937:47"/> of thy tender Mercies blot out my Sins; for I acknowledg my trans<g ref="char:EOLhyphen"/>gressions, and my sin is ever before me. Turn away thy Face from my sins, and blot out all my iniquities. O<g ref="char:EOLhyphen"/>pen unto me the bowels of thy Mercy. Cloath me with the Wedding Garment, and cover my naked<g ref="char:EOLhyphen"/>ness with the righte<g ref="char:EOLhyphen"/>ousness and innocence of my Savior Jesus Christ; that I may
+<pb n="73" facs="tcp:152937:47"/> come to the Banquet of the Lamb slain from the beginning of the World, and that I may glorify thee in the As<g ref="char:EOLhyphen"/>sembly of thy Saints. Give me Faith, more pretious than Gold, that I may gather of that Manna which falleth from Heaven.</p>
+            <p>O, my God, I feel thy joy and comfort; thou strengthens me, and givest me courage to come to thy feast; for it is a Banquet of
+<pb n="74" facs="tcp:152937:48"/> Charity, to which thou invitest not the rich; but the poor, the lame, the cripple, and the blind, who have no<g ref="char:EOLhyphen"/>thing to give thee a<g ref="char:EOLhyphen"/>gain. When thou wast upon earth, thou called'st sinners unto thee and atest with them; and as thou hast encreased thy Glo<g ref="char:EOLhyphen"/>ry, thou hast not in the least diminished thy love and charity.</p>
+            <p>And, O Lord, thou not only invitest us sick,
+<pb n="75" facs="tcp:152937:48"/> blind, and naked, to thy Feast; but thou makest us come that we may be cured, receive sight, and be cloathed. The Waters of thy Grace are not only for quenching the drought of thristy Souls, but also for curing of all sorts of Sickness and Diseases, as the Pool of <hi>Bethesda</hi> was. The Angel of the great Counsel is come down from Heaven, and hath rendered that
+<pb n="76" facs="tcp:152937:49"/> Blessing Salutiferous in all Seasons. The Blood of Christ Jesus lives still and is effica<g ref="char:EOLhyphen"/>cious. I will not say as the poor Paralitick did, <hi>I have no man to put me into the Pool.</hi> For thou, O Lord, be<g ref="char:EOLhyphen"/>camest sin for us, and thou bearest our infir<g ref="char:EOLhyphen"/>mities. Thou thy Sel<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> art the Pool and ou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Laver, to that Lave<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of <hi>Siloa</hi> will I go then and there wash min<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Eyes, since thou com<g ref="char:EOLhyphen"/>mand'st
+<pb n="77" facs="tcp:152937:49"/> it: and then I may surely say, <hi>I was born blind and now I see.</hi> Before I gather the fruit of the Tree of Life, I will cover my self with its leaves; for they are appointed for the health of the Gentiles.</p>
+            <p>Lord Jesus, who hast loved me with an Eter<g ref="char:EOLhyphen"/>nal love, who camest to visit me in my stink<g ref="char:EOLhyphen"/>ing grave, and who hast quickned me when I was dead in my sins
+<pb n="78" facs="tcp:152937:50"/> and trespasses; gran<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that I may be received at thy Table, as <hi>La<g ref="char:EOLunhyphen"/>zarus</hi> was, who wa<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> raised from the dead.</p>
+            <p>And since thou has<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the right of next i<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> kin to me, being more nearly related to the<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> than <hi>Booz</hi> was to <hi>Rut<gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> the <hi>Moabitish</hi> Woman let me, O Lord, find grace in thy sight. Speak to thy poo<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Creature words accord<g ref="char:EOLhyphen"/>ing to my Heart, and comfort me, spread o<g ref="char:EOLunhyphen"/>ver
+<pb n="79" facs="tcp:152937:50"/> me the skirts of thy Garments; and suffer me to eat with thy Servants, and drink in thy Vessels. Let me glean in thy Field, that I may bear in my Heart the Seed of Eternal Life; until I come to enjoy a full crop, and the Field it self be given me in In<g ref="char:EOLhyphen"/>heritance, when in the highest Heavens thou shalt fulfill the Mar<g ref="char:EOLhyphen"/>riage, whereof thou this day confirm'st the Pro<g ref="char:EOLhyphen"/>mise
+<pb n="80" facs="tcp:152937:51"/> in presence of thy People. Happy are al<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they who are called t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Marriage Feast o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Lamb. <hi>Amen.</hi>
+            </p>
+         </div>
+         <div type="meditation">
+            <pb n="81" facs="tcp:152937:51"/>
+            <head>A Prayer and Medi<g ref="char:EOLhyphen"/>tation for him who presents himself to the Communion.</head>
+            <p>O God my Father! I acknowledge my self unwor<g ref="char:EOLhyphen"/>thy of the least of thy favours. But invited by thy command, and the sweetness of thy holy Promises, I take the boldness to approach
+<pb n="82" facs="tcp:152937:52"/> the Table on which thou exhibits the greatness of thy Riches. Let it not, O Lord, prove to my damna<g ref="char:EOLhyphen"/>tion.</p>
+            <p>Banish from my mind all those earthly and carnal thoughts which disturb my De<g ref="char:EOLhyphen"/>votion, affect my Sen<g ref="char:EOLhyphen"/>ses with a religious veneration. Give unto me such Humility and Repentance, such Fear and Reverence, as so high a Mistery does require.</p>
+            <pb n="83" facs="tcp:152937:52"/>
+            <p>I come not, O Lord, trusting to my own righteousness, nor puf<g ref="char:EOLhyphen"/>fed up with the conceit of my merits, but as a poor wretched male<g ref="char:EOLhyphen"/>factor, I draw near un<g ref="char:EOLhyphen"/>to the God of Mercy, as a miserable sinner to the Saviour of the Church, as one defiled with Vices to the Well<g ref="char:EOLhyphen"/>spring of Righteous<g ref="char:EOLhyphen"/>ness. I come as a poor Beggar to the Lord of all things, as blind to the light of the World,
+<pb n="84" facs="tcp:152937:53"/> as naked to the Father of compassion, as hun<g ref="char:EOLhyphen"/>gring and thirsting af<g ref="char:EOLhyphen"/>ter Righteousness to Him who is the Bread of Life, and the Foun<g ref="char:EOLhyphen"/>tain of Living Water, springing up unto Eternal Life.</p>
+            <p>Thou, Lord, wh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hast accepted the re<g ref="char:EOLhyphen"/>pentance of <hi>David</hi> the sighs of <hi>Man<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ssah</hi> the tears of <hi>Mar<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Magdalene,</hi> the faith of the <hi>Thief,</hi> the bit<g ref="char:EOLhyphen"/>ter sorrow of St. <hi>Pete<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+               <pb n="85" facs="tcp:152937:53"/> and the Prayers of the <hi>Publican;</hi> accept now of my Humiliation. I am not worthy to lift my Eyes up unto Hea<g ref="char:EOLhyphen"/>ven, but be thou mer<g ref="char:EOLhyphen"/>ciful unto me a sinner. Confirm my Pardon, seal my Redemption, cleanse me from all my pollutions, support my infirmities, en<g ref="char:EOLhyphen"/>lighten my darkness, and cover my naked<g ref="char:EOLhyphen"/>ness. Send me not a<g ref="char:EOLhyphen"/>way empty, else I shall faint by the way, but
+<pb n="86" facs="tcp:152937:54"/> satisfy me with the fat<g ref="char:EOLhyphen"/>ness of thy House; and give me to drink of the River of thy Pleasures.</p>
+            <p>And seeing Christ Jesus is the Salvation and Redemption, the Ornament and Trea<g ref="char:EOLhyphen"/>sure, the Light and the Life, the Meat and Drink of the Elect, give me Grace to re<g ref="char:EOLhyphen"/>ceive that King of Kings, that Spring of Life and Happiness; that Lodging in my Heart, he may there
+<pb n="87" facs="tcp:152937:54"/> Plant the Seed of Bles<g ref="char:EOLhyphen"/>sed Immortality, the First-fruits of thy King<g ref="char:EOLhyphen"/>dom and the Fore-tast<g ref="char:EOLhyphen"/>ings of thy Glory.</p>
+            <p>O Lord Jesus, who gavest thy self over un<g ref="char:EOLhyphen"/>to Death for my Re<g ref="char:EOLhyphen"/>demption, give thy self now unto my Soul for Food and Nourish<g ref="char:EOLhyphen"/>ment unto Eternal Life. Lord Jesus, who dwel<g ref="char:EOLhyphen"/>lest in the highest Hea<g ref="char:EOLhyphen"/>vens, come and make thy abode in this poor Soul which pineth a<g ref="char:EOLhyphen"/>way
+<pb n="88" facs="tcp:152937:55"/> in the lowermost parts of the Earth.</p>
+            <p>My sins and unbelief shut the door against thee; but, Lord let it be said even this day, that thou ent'rest when the doors are shut. Remove by thy Power the Seperation that is between thee and me. Open by the Spirit the Door of my Soul. Bruise my Heart, that the Streams of thy Grace may on all sides flow into it.</p>
+            <pb n="89" facs="tcp:152937:55"/>
+            <p>Lord, I find that thou drawest near un<g ref="char:EOLhyphen"/>to me in mercy! My Soul leapeth for joy, my Bowels are moved, and my Heart burns within me. O! that I may receive thee with pure Lips and a penitent Heart. And that thou dwelling in my Heart by faith, by that sweet and de<g ref="char:EOLhyphen"/>lightful Guest, I may find my self streng<g ref="char:EOLhyphen"/>thened, comforted, and my Heart inflamed
+<pb n="90" facs="tcp:152937:56"/> with the love of thee; until thou shalt send thy Blessed Angels from Heaven, who will carry me on their Wings into thy Holy Paradice, where I shall behold thee Face to Face; and be satisfied in thy Likeness. <hi>A<g ref="char:EOLhyphen"/>men.</hi>
+            </p>
+         </div>
+         <div type="meditation">
+            <pb n="91" facs="tcp:152937:56"/>
+            <head>Another Meditation upon the same Subject.</head>
+            <p>O My Lord God, though I be a poor wretched sinner, yet do I present my self at thy Feast, because it is a Banquet of Charity, to which thou invitest the poor, the lame, the cripple, and the blind; who
+<pb n="92" facs="tcp:152937:57"/> have nothing to give thee again. I will take the boldness to feed on the Bread of Angels, forasmuch as thou hast appointed it to be the Food of Penitent sin<g ref="char:EOLhyphen"/>ners; I will stretch out my hand to the Holy Cup, for it is a Medi<g ref="char:EOLhyphen"/>cine prepared for Spi<g ref="char:EOLhyphen"/>ritual Maladies.</p>
+            <p>But since I am to compass thine Altar, grant O Lord, that I may wash my hands in Innocence. Since
+<pb n="93" facs="tcp:152937:57"/> thou hast made me free, and willest that I should sit at thy Table among thy Servants; grant that I may be cloathed with the white Robe, and with Garments of Light and Holiness.</p>
+            <p>And forasmuch as all my Righteousness is but as a menstruous Rag, cloath me, O my God, with the Righteousness of my Saviour, with the sweet smelling Gar<g ref="char:EOLhyphen"/>ment
+<pb n="94" facs="tcp:152937:58"/> of my Elder Bro<g ref="char:EOLhyphen"/>ther, to the end I may obtain thy best Blessing: and instead of present<g ref="char:EOLhyphen"/>ing to thee, I may from thy Hands receive Savory Meat.</p>
+            <p>Lord Jesus, who co<g ref="char:EOLhyphen"/>verest a Table for me in the midd'st of mine Enemies, and fillest my Cup with thy most precious Drink, since thou thy Self do'st an<g ref="char:EOLhyphen"/>noint and wash thy Guests, pour upon me, I beseech thee, thy
+<pb n="95" facs="tcp:152937:58"/> most Fragrant Oyl. Wash not only my Feet but also my Hands and Head, that I may have part with thee.</p>
+            <p>Make me not only a partaker of the Seals of thy Covenant, and of the Pledges of thy Love, but also that <hi>I</hi> may receive thy Self with all thy benefits. Whil'st my Hand, di<g ref="char:EOLhyphen"/>rected by my Bodily Eye, shall receive the Bread and Wine distributed by thy Mi<g ref="char:EOLhyphen"/>nister,
+<pb n="96" facs="tcp:152937:59"/> may my Soul, guided by Faith, receive thy Body that was bro<g ref="char:EOLhyphen"/>ken for me, and thy Blood that was shed on the Cross for the Re<g ref="char:EOLhyphen"/>mission of my Sins.</p>
+            <p>And whereas here<g ref="char:EOLhyphen"/>tofore the Prophet <hi>E<g ref="char:EOLhyphen"/>lias</hi> stretched himself upon a dead Body, that he might raise it to life again, grant at this time that I may Embrace Christ Jesus dead and crucified, that from him I may re<g ref="char:EOLhyphen"/>ceive
+<pb n="97" facs="tcp:152937:59"/> Life and Salva<g ref="char:EOLhyphen"/>tion. That <hi>I</hi> may not only with <hi>Thomas</hi> put my fingers into his Side, but that my Heart may dart it self into it. That <hi>I</hi> may not only behold the wounds of his Feet and Hands; but also drink the Blood that drops from them.</p>
+            <p>O my true and one<g ref="char:EOLhyphen"/>ly Saviour, since <hi>I</hi> touch the Hem of thy Gar<g ref="char:EOLhyphen"/>ment, being by faith, and the bond of thy
+<pb n="98" facs="tcp:152937:60"/> Spirit united to thy Humane Nature, since thou confirmest in me thy great and precious Promises, whereby thou makest me parta<g ref="char:EOLhyphen"/>ker of thy Divine Na<g ref="char:EOLhyphen"/>ture; and since I am Bone of thy Bone, Flesh of thy Flesh, and one and the same Spi<g ref="char:EOLhyphen"/>rit with thee; O that thou mayest feel that secret Virtue going out of thee to deliver me from my Maladies, and to stop the course of my Corruption.</p>
+            <pb n="99" facs="tcp:152937:60"/>
+            <p>Then, Lord, shall I prostrate my self be<g ref="char:EOLhyphen"/>fore thee, and acknow<g ref="char:EOLhyphen"/>ledg in the Assembly of thy Saints, that it is thou alone who hast healed me, and that there is no Salvation in any besides thee.</p>
+            <p>And I shall not onely praise thee whil'st I live here upon Earth; but also when thou hast taken me from this Valley of Tears, I shall take a Golden Vi<g ref="char:EOLhyphen"/>al full of Incense, and
+<pb n="100" facs="tcp:152937:61"/> glorifie thee Eternally in the Heavenly <hi>Jeru<g ref="char:EOLhyphen"/>salem</hi> amidd'st the Mil<g ref="char:EOLhyphen"/>lions of thine Angels, in the Assemblies of the First-born, whose Names are written in the Book of Life. <hi>A<g ref="char:EOLhyphen"/>men.</hi>
+            </p>
+         </div>
+         <div type="thanksgiving">
+            <pb n="101" facs="tcp:152937:61"/>
+            <head>A Thanksgiving to be said after the Com<g ref="char:EOLhyphen"/>munion.</head>
+            <p>BLess the Lord, O my Soul, and all that is within me, bless his Holy Name: Bless the Lord, O my Soul, and forget not all his Benefits. A<g ref="char:EOLhyphen"/>bove all Things, O my Soul, forget not for ever to celebrate the Favour which God hath this day done to me.</p>
+            <p>I was before a Den
+<pb n="102" facs="tcp:152937:62"/> of Thieves, a Haunt of Evil Spirits, a Sink of Unclean Lusts; and now I am become the Host of the Deity, the Palace of the Living God, the Spouse of the onely begotten Son of the Almighty, and the Temple of the Holy Ghost. Salvation is this day come into my House, and I may as<g ref="char:EOLhyphen"/>sured believe that I am a true Son of <hi>Abraham.</hi>
+            </p>
+            <p>All the Persons of the most Holy and Glo<g ref="char:EOLhyphen"/>rious
+<pb n="103" facs="tcp:152937:62"/> Trinity, assure me of Salvation. I can<g ref="char:EOLhyphen"/>not doubt of the Mer<g ref="char:EOLhyphen"/>cy of the Father, for he hath not spared his only Son, but hath de<g ref="char:EOLhyphen"/>livered him to the shameful Death of the Cross, to redeem me from my sins; and now he gives him to me for Food and Nourishment unto Eternal Life. The Son binds me to him, by the straitest and most cordial Bonds of Love that can be found
+<pb n="104" facs="tcp:152937:63"/> amongst Men. He makes me Bone of his Bone, Flesh of his Flesh, and one and the same Spirit with him: and by that means ren<g ref="char:EOLhyphen"/>ders me partaker of his Merit, and all his Be<g ref="char:EOLhyphen"/>nefits. And the Holy Ghost makes me glad and comforts me, wit<g ref="char:EOLhyphen"/>nessing to my Spirit that I am the Child of God, and Heir of God, and Co-heir with Jesus Christ. He hath sealed me unto the day of a
+<pb n="105" facs="tcp:152937:63"/> glorious Redemption.</p>
+            <p>King <hi>Belshazzar,</hi> during his Feast, saw a Hand that wrote his Condemnation. But during the Feast of my Saviour, I have felt the Finger of God writing on my Heart my Eternal Absolution, assuring me that God will not enter into Judgement with me, and that he reserves for me in the Heavens, an Inheritance uncor<g ref="char:EOLhyphen"/>ruptible and undefiled,
+<pb n="106" facs="tcp:152937:64"/> which fadeth not a<g ref="char:EOLhyphen"/>way.</p>
+            <p>I will not be any more affraid of my past sins; for the Cup of Blessing which now I have been partaker of is the Communion of the Blood of Jesus Christ, which was shed for the Remission of my sins. I will not be affraid of the Wrath of God, for now I have received the Pledge of my Peace and Recon<g ref="char:EOLhyphen"/>ciliation with God, by
+<pb n="107" facs="tcp:152937:64"/> the Blood of the Cross. Being justified by Faith, I have Peace with God, through our Lord Je<g ref="char:EOLhyphen"/>sus Christ, and shall rejoyce in the Hope of the Glory of God. I am not now affraid of Death, for seeing I have eaten of the Fruit of the Tree of Life, I shall never Die. Christ Jesus is the Resurre<g ref="char:EOLhyphen"/>ction and the Life: he is the Bread of Life, of which whosoever <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ateth Liveth for ever.
+<pb n="108" facs="tcp:152937:65"/> He that believeth in him, though he be dead, yet he shall live. I shall not fear the Dis<g ref="char:EOLhyphen"/>solution of this Taber<g ref="char:EOLhyphen"/>nacle; for though my Body be turned into Dust and Rottenness, yet God will raise it again at the last day. I have now received the Seed of Immor<g ref="char:EOLhyphen"/>tality, and the sure earnest that Christ Je<g ref="char:EOLhyphen"/>sus will one day trans<g ref="char:EOLhyphen"/>form this vile Body, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd render it conform
+<pb n="109" facs="tcp:152937:65"/> to his glorious Body. After that the Worms have destroyed this, I shall see God in my Flesh, and mine Eyes shall behold him and not another.</p>
+            <p>O what Joy and Consolation do I now feel in my Soul? My Heart is glad, and my Glory rejoyceth; my Flesh also shall rest in Hope. I will sing with the Angelical Spi<g ref="char:EOLhyphen"/>rits, <hi>Glory be to God on High, Good-will upon
+<pb n="110" facs="tcp:152937:66"/> Earth, and Peace to<g ref="char:EOLhyphen"/>wards M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n.</hi>
+            </p>
+            <p>Depart from me all Sadness, for I possess the Joy and Conso<g ref="char:EOLhyphen"/>lation of <hi>Israel.</hi> In my Jesus I find Sweetness and inexpressible De<g ref="char:EOLhyphen"/>lights. My Heart from henceforward shall be a continual Feast, and the Peace of God that passeth all Understand<g ref="char:EOLhyphen"/>ing, shall keep my Body and Soul.</p>
+            <p>What can thy poor Servant say more unto
+<pb n="111" facs="tcp:152937:66"/> thee; for I am too mean, in respect of all thy Goodness and Truth, which thou hast shewed towards me. Thou, Lord, giv<g ref="char:EOLhyphen"/>est me above what I could ask or think. Thou givest me a fore<g ref="char:EOLhyphen"/>taste of thy Heavenly <hi>Canaan,</hi> and the First-Fruits of thy glorious Communion. O when shall I be fully satisfied with the Bread of thy Kingdom, and the Fat of thy House? When
+<pb n="112" facs="tcp:152937:67"/> wilt thou plunge me in that River of thy Pleasures?</p>
+            <p>My Soul thirsteth for God, for the Liv<g ref="char:EOLhyphen"/>ing God, when shall I come and appear be<g ref="char:EOLhyphen"/>fore God? It is enough, O Lord, return now into thy rest, O my Soul, for the Lord hath dealt bountifully with thee. Let me now depart in Peace, according to thy word, for mine Eyes have seen thy Salvation.</p>
+            <pb n="113" facs="tcp:152937:67"/>
+            <p>But whil'st I wait for the Enjoyment of that Eternal Peace, what shall I render un<g ref="char:EOLhyphen"/>to the Lord for all his Benefits towards me? I will take the Cup of Salvation and call upon the Name of the Lord. I will pay my Vows to the Lord in the midd'st of all his People, in the Courts of the Lords House, in the midd'st of thee, O <hi>Je<g ref="char:EOLhyphen"/>rusalem.</hi>
+            </p>
+            <p>O great God, as
+<pb n="114" facs="tcp:152937:68"/> thou hast given me thy Blessings, and a Hand to receive them, give me Grace likewise to acknowledge them by everlasting Thanks<g ref="char:EOLhyphen"/>giving. Lord Jesus, who <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ast given me Furni<g ref="char:EOLhyphen"/>ture to adorn the House which thou hast daigned to ho<g ref="char:EOLhyphen"/>nour with thy Pre<g ref="char:EOLhyphen"/>sence, give me like<g ref="char:EOLhyphen"/>wise Incense to burn before thee. Let my Prayer come up before thee as Incense, and
+<pb n="115" facs="tcp:152937:68"/> the lifting up of my Hands as the Evening Sacrifice.</p>
+            <p>And in the same manner as thy Pre<g ref="char:EOLhyphen"/>sence heretofore ap<g ref="char:EOLhyphen"/>peared graciously in the Temple of <hi>Solomon,</hi> by the Fire which came down from Hea<g ref="char:EOLhyphen"/>ven, and consumed the Sacrifice; send down into my Heart, from Heaven, the Fire of thy Love, which may render my Prayers fervent; and elevate
+<pb n="116" facs="tcp:152937:69"/> to thee the flame of my Praises.</p>
+            <p>
+               <hi>Joseph</hi> of <hi>Arimathea</hi> and <hi>Nicodemus,</hi> having the Dead Body of our Saviour, put it in a clean Linnen Cloth, with a Composition of Myrrhe and Alloes. And grant, good Lord, that I having received my Saviour, who was dead, and raised again into Glory, may lodge him in a pure Consci<g ref="char:EOLhyphen"/>ence, and in the sin<g ref="char:EOLhyphen"/>cerity of a mild and
+<pb n="117" facs="tcp:152937:69"/> peaceable Spirit, which in the sight of God is of greater value than all Spices and Per<g ref="char:EOLhyphen"/>fumes.</p>
+            <p>They who have a great Prince lodge in their House have their Eye still stedfastly fixed upon him. They are always imployed ei<g ref="char:EOLhyphen"/>ther in Serving or En<g ref="char:EOLhyphen"/>tertaining of him.</p>
+            <p>Since then I have the honour to lodge in me the King of Kings, and Lord of
+<pb n="118" facs="tcp:152937:70"/> Lords, grant that all my Affections may fall down and kneel in his Presence.</p>
+            <p>Let there be nothing in me that may dis<g ref="char:EOLhyphen"/>please so excellent a Guest. Grant that I may banish from his sight the Filthiness of my Vices, and the Pol<g ref="char:EOLhyphen"/>lution of my unclean Lusts, that my greatest fear may be not to displease him; and greatest care how to give him content: and
+<pb n="119" facs="tcp:152937:70"/> that my Soul may be as a Sanctuary and sacred Closet, where I may entertain him in holy Prayers and de<g ref="char:EOLhyphen"/>vote Meditations.</p>
+            <p>O great God, who hast this day sealed unto me Grace and Re<g ref="char:EOLhyphen"/>demption; make me to feel thy Spirit of Sanctification. As Christ Crucified hath been represented to my Eyes, grant that I may Crucifie the Old Man, and destroy the
+<pb n="120" facs="tcp:152937:71"/> body of sin. And as Christ Jesus died once unto sin, that he might live eternally to God; grant also that I may die unto sin, that through Christ Jesus I may be Eternally to God. That Sin may no longer reign in my Mortal Body, that I should obey it in the Lusts thereof; and that I may no longer yield my Members as Instruments of Righ<g ref="char:EOLhyphen"/>teousness to Sin; but
+<pb n="121" facs="tcp:152937:71"/> that I may yield them to God as one alive from the dead. That I may offer unto the Body as a Living Sa<g ref="char:EOLhyphen"/>crifice, Holy and Ac<g ref="char:EOLhyphen"/>ceptable to God, which is my reasonable Ser<g ref="char:EOLhyphen"/>vice; to the end I may say with thy Apostle, <hi>I am crucified with Christ, nevertheless I live, yet not I, but Christ liveth in me; And the Life which I now live in the Flesh, I live by the Faith of
+<pb n="122" facs="tcp:152937:72"/> the Son of God, who loved me and gave himself for me.</hi>
+            </p>
+            <p>O Lord, since thou hast admitted me unto thy Table, and made me to lean on thy Bosom like thy well-beloved Disciple. Since thou hast satisfied me with such precious Dainties, and hast linked me unto thee by such powerful Chains of Love, grant that I may heartily re<g ref="char:EOLhyphen"/>nounce the Devil and
+<pb n="123" facs="tcp:152937:72"/> all the sinful Pomps of the Worfd, that Pride, Avarice, and unclean Concupisence may have no more power over me.</p>
+            <p>Since thou hast Em<g ref="char:EOLhyphen"/>braced me, Cloathed with thy Righteous<g ref="char:EOLhyphen"/>ness, and fed with the Bread of Angels, Grant that I may not again return to the Food of Swine, the Filth of my Vices; but that my whole Life may be a Warfare a<g ref="char:EOLhyphen"/>gainst
+<pb n="124" facs="tcp:152937:73"/> my Lusts, a Study and Exercise of Piety, and a Race to<g ref="char:EOLhyphen"/>wards thee, in the ways of good works which thou hast ap<g ref="char:EOLhyphen"/>pointed for us to walk in.</p>
+            <p>
+               <hi>Jonathan</hi>'s Eyes were enlightened by tasting of a Honey-Comb that dropt upon the Ground, and shall not I be enlightened, O Lord, who have in my Heart tasted the Honey that drops from the
+<pb n="125" facs="tcp:152937:73"/> Rock of Ages? I was before Darkness, but henceforward I shall be Light in the Lord.</p>
+            <p>The Prophet <hi>Elias</hi> having drank a Cruise of Water, and ate a Cake baked on the Coals, which was brought him from Heaven by an Angel, found himself so much refreshed, that in the strength of that Meal he Travelled Forty Days and Forty Nights, until he came to the
+<pb n="126" facs="tcp:152937:74"/> Mountain of the Lord in <hi>Horeb;</hi> so grant, good Lord, that I, who being touched by thy Spirit, have now Drank of the Water of Life, and Ate of the Heavenly Bread, which bearing the Wrath of God upon the Altar of the Cross, was made unto us Food unto Eternal Life; by the strength of that Holy Bread may go on from Faith to Faith, and from Grace to
+<pb n="127" facs="tcp:152937:74"/> Grace, until I come and prostrate my self before thee in <hi>Mount Sion;</hi> where I shall stand no more in need of S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>craments; for the Curtain being drawn, and the Veil rent, I shall, without Shadow or Figure, behold thee Face to Face: Shall follow my Jesus whi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hersoever he goeth, and shall hunger and thirst no more; for the Lamb that is on
+<pb n="128" facs="tcp:152937:75"/> the Throne shall feed me, and lead me to the Fountain of Living Waters,: And God himself shall be all in all unto me. <hi>Amen.</hi>
+            </p>
+         </div>
+         <div type="meditation">
+            <pb n="129" facs="tcp:152937:75"/>
+            <head>Another Meditation on the same Sub<g ref="char:EOLhyphen"/>ject.</head>
+            <p>COuld I speak the Language of Angels, and had I one of the Harps of those Blessed Saints who Triumph in Hea<g ref="char:EOLhyphen"/>ven, yet could I not sufficiently acknow<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>edge the Favour that
+<pb n="130" facs="tcp:152937:76"/> God hath shewed me to day.</p>
+            <p>The Happiness of <hi>Abraham</hi> is admired, in that he lodged An<g ref="char:EOLhyphen"/>gels; but without comparison, greater is my Felicity; for I lodge him whom the Angels adore, and in whose Presence the <hi>Se<g ref="char:EOLhyphen"/>raphims</hi> cover their Faces with their Wings. The Angels stayed but a short time in <hi>Abra<g ref="char:EOLhyphen"/>ham</hi>'s House, but Christ Jesus will dwell
+<pb n="131" facs="tcp:152937:76"/> in my Heart for ever.</p>
+            <p>The Royal Prophet exalts the Goodness of God, in that he hath given to Man the Beasts of the Fields, and the Fowls of the Air for Food; but I have far greater reason to mag<g ref="char:EOLhyphen"/>nifie that infinite Mer<g ref="char:EOLhyphen"/>cy of God, who feeds me with the Flesh and Blood of his only be<g ref="char:EOLhyphen"/>gotten Son.</p>
+            <p>The same Prophet with Admiration be<g ref="char:EOLhyphen"/>held the Moon and
+<pb n="132" facs="tcp:152937:77"/> Stars, which shine in the Firmament for the sake of Man: But I, Lord, contemplating the Bowels of Mercy, wherewith the day-spring from on high hath visited me; see<g ref="char:EOLhyphen"/>ing the Sun of Justice spreading abroad his Beams in my Heart, have more cause to be ravished with Ad<g ref="char:EOLhyphen"/>miration, and to cry out: <hi>What is Man that thou thinkest of him, or the Son of
+<pb n="133" facs="tcp:152937:77"/> Man that thou should'st visit him?</hi>
+            </p>
+            <p>
+               <hi>Elizabeth,</hi> the Mo<g ref="char:EOLhyphen"/>ther of <hi>John</hi> the <hi>Bap<g ref="char:EOLhyphen"/>tist,</hi> being visited by the blessed Virgin, cri<g ref="char:EOLhyphen"/>ed out, <hi>Whence is this to me that the Mother of the Lord should come to me?</hi> But with grea<g ref="char:EOLhyphen"/>ter Astonishment I may say,</p>
+            <p>Whence is this to me, that not the Mo<g ref="char:EOLhyphen"/>ther of my Lord, but that my Lord himself hath vouchsafed to
+<pb n="134" facs="tcp:152937:78"/> visit his poor Servant? That Heaven should stoop to the Earth? And that the Creator should honour his Crea<g ref="char:EOLhyphen"/>ture with his Holy Presence?</p>
+            <p>So soon as the Salu<g ref="char:EOLhyphen"/>tation of the Blessod Virgin came to the Ears of <hi>Elizabeth,</hi> the little Child leapt for Joy in her Womb. See<g ref="char:EOLhyphen"/>ing then that not only the Salutation of my Saviour is come to my Ears, but that himself
+<pb n="135" facs="tcp:152937:78"/> is come to lodge in my Soul; let my Heart leap for joy, my Bow<g ref="char:EOLhyphen"/>els yern, and my Af<g ref="char:EOLhyphen"/>fections be inflamed! This is the happy day that the Lord hath made, let us rejoyce and be glad therein.</p>
+            <p>Many lodge Kings and their Court, who become not richer thereby, but by lodg<g ref="char:EOLhyphen"/>ing him who hath writ<g ref="char:EOLhyphen"/>ten on his Garment and on his Thigh, <hi>The King of Kings and
+<pb n="136" facs="tcp:152937:79"/> Lord of Lords:</hi> I shall for ever possess inex<g ref="char:EOLhyphen"/>haustible Treasures; for he that hath not spared to give his own Son for me, will not he also with him give me all things?</p>
+            <p>If God blessed the House of <hi>Obed Edom,</hi> because for sometime he lodged the Ark of the Covenant, have not I reason to hope that God will bless me with his most Holy Blessings, since I lodge
+<pb n="137" facs="tcp:152937:79"/> him for ever, of whom the Ark of the Cove<g ref="char:EOLhyphen"/>nant was but a Figure, and the Foot-stool to his Feet.</p>
+            <p>Blessed be God, the Father of our Lord Jesus Christ, who in him hath blessed us with all Spiritual Bles<g ref="char:EOLhyphen"/>sings in Heavenly Pla<g ref="char:EOLhyphen"/>ces in the Church, and hath made us fit to be partakers of the Inhe<g ref="char:EOLhyphen"/>ritance of the Saints in Light. I will not be af<g ref="char:EOLhyphen"/>fraid of Famine, for
+<pb n="138" facs="tcp:152937:80"/> I lodge with me that great Prophet, who not onely multiplies the Oyl and the Meal, but is himself the Bread of Life, and the Well of Water springing up into Everlasting Life. The Lord is my Shep<g ref="char:EOLhyphen"/>herd, I shall not want; he maketh me to lie down in green Pastures, and leadeth me beside the still Waters, <hi>&amp;c.</hi> I will not be ashamed of the World, nor of its Storms; for Christ
+<pb n="139" facs="tcp:152937:80"/> Jesus hath overcome the World; he com<g ref="char:EOLhyphen"/>mands the Winds and the Floods and they obey. Though the Sea roar and be trou<g ref="char:EOLhyphen"/>bled, though the Moun<g ref="char:EOLhyphen"/>tains shake with the swelling thereof; there is a River, the Streams whereof shall make glad the City of God, the Holy Place of the Tabernacles of the most High. I will not be af<g ref="char:EOLhyphen"/>fraid of the Sword of the destroying Angel
+<pb n="140" facs="tcp:152937:81"/> for not onely the Lin<g ref="char:EOLhyphen"/>tel and Side-posts of the Door of my House, but the Inward Parts of my Soul are sprinkled with the Blood of the Immaculate Lamb.</p>
+            <p>I will not be affraid of the Fury of the Red Dragon, nor of the Subtle Accusations of that Old Serpent; for the Devil hath no power in Christ Jesus, nor in his Members: Now that Salvation is come, and the King<g ref="char:EOLhyphen"/>dom
+<pb n="141" facs="tcp:152937:81"/> of our God, and the Power of his Christ. For that malicious Ac<g ref="char:EOLhyphen"/>cuser, who accused us before God, Night and Day, is cast down. We have overcome him by the Blood of the Lamb; and we we shall shortly see him bruised under our Feet.</p>
+            <p>Nor will I be affraid of Death and Hell; for he holdeth in his Hands the Keys of Hell and Death. O Grave where is thy Sting? the Sting
+<pb n="142" facs="tcp:152937:82"/> of Death is Sin, and the Power of Sin is the Law: But thanks be to God who hath given us Victory through Je<g ref="char:EOLhyphen"/>sus Christ our Lord.</p>
+            <p>I will not be affraid neither of the final Destruction of the World, when the Hea<g ref="char:EOLhyphen"/>vens shall pass away with a great noise, and the Elements shall melt with Fervent Heat; the Earth also and the Works that are therein shall be
+<pb n="143" facs="tcp:152937:82"/> Burnt up: God in his Mercy will preserve me, and I shall not be Rooted out like the Cursed People: for, not the Ambassadours of <hi>Joshua,</hi> but <hi>Joshua</hi> himself, lodgeth with me; he will send his Angels who plucking me out of the Fire, shall lead me by the hand into <hi>Mount Sion,</hi> to the City of the Living God.</p>
+            <p>In short, I will not be affraid of Everlasting
+<pb n="144" facs="tcp:152937:83"/> Judgment; for with the hidden Manna I have received the White Stone, which is the Token of the Abso<g ref="char:EOLhyphen"/>lution of Criminals. My Judge will be my Advocate; and if God Justify, who shall Con<g ref="char:EOLhyphen"/>demn me? O my God, let me not repay so many favours as I have received with ungrati<g ref="char:EOLhyphen"/>tude: Let me not do as the King of the <hi>Ammo<g ref="char:EOLhyphen"/>nites</hi> did, who abu<g ref="char:EOLhyphen"/>sed the Ambassadours
+<pb n="145" facs="tcp:152937:83"/> whom <hi>David</hi> had sent to comfort him. Let me not offend that Faithful Ambassadour whom I have received to Contract with me an Everlasting Cove<g ref="char:EOLhyphen"/>nant: Let me not grieve that Comforter who seals me unto the Day of Redemption; but let him be Served and Adored with the most Holy and Fervent Af<g ref="char:EOLhyphen"/>fections of my Soul; and let my Meditations be upon his Favours
+<pb n="146" facs="tcp:152937:84"/> both Day and Night.</p>
+            <p>And as of old the most pretious things in the Ark were the Ta<g ref="char:EOLhyphen"/>bles of the Law; so, seeing thou hast chosen me for thy Sanctuary, and the Pavillion of thy Glory, transform me into thine Image, that I may reckon no<g ref="char:EOLhyphen"/>thing in the World more pretious than Obedience to thy Holy Commandements.</p>
+            <p>I know that of my self I am unfit for thy
+<pb n="147" facs="tcp:152937:84"/> Service; for I am by Nature a Child of Wrath as well as others, all the Imagi<g ref="char:EOLhyphen"/>nations of my Heart are Evil and that con<g ref="char:EOLhyphen"/>tinualy; and I am dead in sins and Trespasses: but if the blood of Bulls and Goats, and the Ashes of an Heifer, sprinkling the unclean, sanctifieth to the Puri<g ref="char:EOLhyphen"/>fying of the flesh, how much more shall the Blood of Christ, who through the Eternal
+<pb n="148" facs="tcp:152937:85"/> Spirit, offered him<g ref="char:EOLhyphen"/>self without Spot to God, purge my Con<g ref="char:EOLhyphen"/>science from Dead Works to serve the Living God?</p>
+            <p>And as <hi>Aarons</hi> Rod blossomed and bore Al<g ref="char:EOLhyphen"/>monds when it was put into the Tabernacle; so Lord, since by thy Holy Presence thou Sanctifiest me this day to be the Tabernacle of God in Spirit, thou wilt cause me likewise to blossom and fructify
+<pb n="149" facs="tcp:152937:85"/> in good Works: In a word, if a dead Man, who touched the Bones of the Prophet <hi>Elisha,</hi> was raised again, thou wilt raise me, O Lord, in newness of Life, because to day I Em<g ref="char:EOLhyphen"/>brace Christ Jesus Cru<g ref="char:EOLhyphen"/>cified. For if my Soul be dead, and looks more ghastly, and lies deep<g ref="char:EOLhyphen"/>er in the Grave, than heretofore that poor dead man did; the Touch of thy Spirit, O Lord, is of more Effi<g ref="char:EOLhyphen"/>cacy
+<pb n="150" facs="tcp:152937:86"/> than the Touching of the Bones of thy Prophet.</p>
+            <p>When Christ came into the World, the Evil Spirits fled, and those that were pos<g ref="char:EOLhyphen"/>sessed with Devils, were eased. May the coming of Christ into my Soul banish from thence all Evil Spirits, and may I be delivered from those Hellish Lusts which cast me sometimes into the Fire of Anger and Hatred,
+<pb n="151" facs="tcp:152937:86"/> and sometimes into the Mire of my unclean Pleasures.</p>
+            <p>O My God, grant that I may have al<g ref="char:EOLhyphen"/>ways before mine Eyes Jesus Christ Crucified. Engrave him so upon my Heart, that he may be the Pattern of my Life and the Comfort of my Death. Let me never Glory but in the Cross Christ Jesus my Saviour, whereby the World is Crucified un<g ref="char:EOLhyphen"/>to me and I unto the World.</p>
+            <pb n="152" facs="tcp:152937:87"/>
+            <p>Seeing thou hast put into me the Fountain of Light and Life, the Treasure of Wisdom and Knowledg, the Spring of True and Heavenly Pleasures: grant that I may con<g ref="char:EOLhyphen"/>tinually go to it to quench my Thirst; that I may Thirst after no other Pleasure, that I may covet no other Riches: that I may constantly delight in that Light, and that I may follow it until
+<pb n="153" facs="tcp:152937:87"/> it have brought me in<g ref="char:EOLhyphen"/>to thy Heavenly <hi>Cana<g ref="char:EOLhyphen"/>an.</hi> Let all my Acti<g ref="char:EOLhyphen"/>ons, Words and Thoughts, be to the Glory of thy Holy Name, the Edification of my Neighbour, and the Salvation of my Soul.</p>
+            <p>And forasmuch, Lord, as the passion whereof thou hast given me the Grace this day to Celebrate the Memory, hath on<g ref="char:EOLhyphen"/>ly been represented to
+<pb n="154" facs="tcp:152937:88"/> me as a Pattern how I may follow the Steps of my Saviour: So en<g ref="char:EOLhyphen"/>crease my Faith, con<g ref="char:EOLhyphen"/>firm my Courage, and strenghten me in the Inward man, that I may be able with <hi>Si<g ref="char:EOLhyphen"/>mon</hi> the <hi>Cyrenean</hi> to follow Christ Jesus bearing his Cross.</p>
+            <p>And in like manner, as my Saviour, having celebrated his Last Sup<g ref="char:EOLhyphen"/>per with his Disciples, went out into the Gar<g ref="char:EOLhyphen"/>den where his Soul was
+<pb n="155" facs="tcp:152937:88"/> in anguish even unto Death, and swat drops of Blood; may I also when I go from this Table, having sung the Hymn with that Blessed Assembly, feel my self ready and dis<g ref="char:EOLhyphen"/>posed to suffer Death for his Name.</p>
+            <p>May I be ready to shed my Blood for his Glory, who spared not his own for the Wash<g ref="char:EOLhyphen"/>ing away of my Sins. May I be in readiness to lay down my life for
+<pb n="156" facs="tcp:152937:89"/> his Service, who hath given his Soul for the Price of my Redemp<g ref="char:EOLhyphen"/>tion. May I not be a<g ref="char:EOLhyphen"/>shamed, neither of Bonds, nor Prisons, nor even of Gibbets, prepared for me, for his Sake; since my Lord Jesus Christ was not ashamed to be Bound, Whipt, and Nailed to the Cursed Cross between two Thieves.</p>
+            <p>The Souldier have<g ref="char:EOLhyphen"/>ing taken his refresh<g ref="char:EOLhyphen"/>ment,
+<pb n="157" facs="tcp:152937:89"/> finds himself more couragious and animated to the Battle: so grant, Lord, that after I have fed on so excellent Dainties, and drank of the new Wine of thy Kingdom, I may feel new Strength and Vigour in me, to F<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ght the good Fight of Faith, Breathing after Everlasting Life.</p>
+            <p>That I may endure labour as a good Souldi<g ref="char:EOLhyphen"/>er of Jesus Christ. That I may be faith<g ref="char:EOLhyphen"/>ful
+<pb n="158" facs="tcp:152937:90"/> unto him, even un<g ref="char:EOLhyphen"/>to Death; being assured to receive the Crown of Life: for it is a sure saying, That if we suffer with him, we shall Reign with him. And if we bear in our Bo<g ref="char:EOLhyphen"/>dy the Death of our Lord Jesus, the Life of our Lord Jesus shall al<g ref="char:EOLhyphen"/>so manifest it self in our Mortal Flesh.</p>
+            <p>Alas! Lord, I know that of my self I cannot resist the least tempta<g ref="char:EOLhyphen"/>tion, but I can do all
+<pb n="159" facs="tcp:152937:90"/> things in Christ Jesus, who strengthens me. This poor Soul is seiz<g ref="char:EOLhyphen"/>ed with horrour and tossed with vain fears: but as our Saviour, drawing near the Boat tossed by a Tem<g ref="char:EOLhyphen"/>pest, said to his Di<g ref="char:EOLhyphen"/>sciples, <hi>It is I, fear not.</hi> And so soon as he was come into the Boat the Tempest ceas<g ref="char:EOLhyphen"/>ed. Even so since Christ has this day come unto my Soul, let it please him to
+<pb n="160" facs="tcp:152937:91"/> quiet the troubles of my Conscience, and give me Grace amid'st the greatest Evils to possess my Soul in Pa<g ref="char:EOLhyphen"/>tience. I will securely pass through the Tor<g ref="char:EOLhyphen"/>rent of this World, because the Emperour of the Universe and the Supream Lord of all Creatures, is in my Vessel. We are like Sheep appointed for the Slaughter, but we shall be more than Conquerors through
+<pb n="161" facs="tcp:152937:91"/> Jesus Christ that loved us.</p>
+            <p>O Lord Jesus! abide with us, and let not thy Spirit forsake us; for the Sun beginneth to decline, and the Light to fail. There is no knowledge nor fear of God in the Land, and Faith and Charity are departed from the Earth. The Vices that reign even in thine own <hi>Jsrael,</hi> threaten us with an Age of Darkness. The day is
+<pb n="162" facs="tcp:152937:92"/> far spent, and night beginneth to cover the Face of the Earth; yea and many nights also. A Night of Temptati<g ref="char:EOLhyphen"/>on and Solicitation to Evil, a Night of Ter<g ref="char:EOLhyphen"/>rors and anxious Cares, a Night of Anguish, Tribulation, and fright<g ref="char:EOLhyphen"/>ful Death; a Night that casts both the Foolish and Wise Vir<g ref="char:EOLhyphen"/>gins into a Sleep; a Night that involves both the Innocent and Guilty. But if thou,
+<pb n="163" facs="tcp:152937:92"/> Lord Jesus, abidest with us, none of these Nights shall terrify us: being troubled on eve<g ref="char:EOLhyphen"/>ry side we shall not be distressed; being in perplexity we shall not despair; being perse<g ref="char:EOLhyphen"/>cuted we shall not be forsaken: and being cast down we shall not be destroyed.</p>
+            <p>Amid'st the thickest darkness thou shalt be my Light, in the black<g ref="char:EOLhyphen"/>est Dungeons, the Sun of thy Grace shall shine
+<pb n="164" facs="tcp:152937:93"/> about me. In time of War and the Rumours of War, thou shalt be my resting Place, my Peace and Tranquil<g ref="char:EOLhyphen"/>lity. In my flight, thou shall be my Re<g ref="char:EOLhyphen"/>fuge; in my Poverty, my Treasure; and in my Nakedness my Co<g ref="char:EOLhyphen"/>vering. In time of Famine, thou shalt be my Portion and my Drink for ever; in my Disgrace, thou shalt be my Diadem and Crown of Ornament; in my
+<pb n="165" facs="tcp:152937:93"/> greatest Solitude thou shalt be my Company; in my Fears, thou shalt be my Confi<g ref="char:EOLhyphen"/>dence and the Work of my Assurance; in the Valley and Shadow of Death thy Rod and thy Staff shall comfort me. In thee have I hoped, O Lord, let me not be put to Con<g ref="char:EOLhyphen"/>fusion. Let thy Blessings and loving Kindness wait upon me all the days of my Life, and when I have finished
+<pb n="166" facs="tcp:152937:94"/> my course, fought the good Fight, and kept the Faith, I shall be Crowned with the Crown of Righteous<g ref="char:EOLhyphen"/>ness; for he whom I have received to day, shall receive me at the hour of my Death.</p>
+            <p>He to whom I have given a place in my Heart, shall give me a Place in his Kingdom; where Night and Darkness shall be no more: for God Him<g ref="char:EOLhyphen"/>self is the Light, and
+<pb facs="tcp:152937:94"/> the Lamb, the Candle which never goeth out; where there shall be no more Weeping nor Crying, nor Labour; for Sorrow and Lamen<g ref="char:EOLhyphen"/>tation shall fly away. Joy and Everlasting Gladness shall be upon our Heads; and God shall wipe away all Tears from our Eyes. There shall no want be there; for the Tree of Life shall bring us forth Fruit every Month in the Year,
+<pb facs="tcp:152937:95"/> and we shall continu<g ref="char:EOLhyphen"/>ally Drink of the River of the Water of Life which streams from the Throne of God and the Lamb. O God, in thy presence is Fulness of Joy, and at thy Right Hand are Plea<g ref="char:EOLhyphen"/>sures for Evermore. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:152937:95"/>
+         </div>
+      </body>
+   </text>
+</TEI>
